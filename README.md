@@ -10,3 +10,7 @@
 | 手机 | 拨打：17陆-零213-伍810 | |
 | 邮件 | 发邮件：zhangjian.chandan@bytedance.com | 附上cv |
 | 微信 | JianzhangQQ |  |
+
+### 可供内推职位
+
+参见[内推职位表](job-list.md)。

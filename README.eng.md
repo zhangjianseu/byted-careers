@@ -10,3 +10,7 @@ u can contact me by those ways below:
 | Phone | call me：(+86) 17six-zero123-five810 | |
 | Email | send a mail：zhangjian.chandan@bytedance.com | cv file is needed |
 | Wechat | JianzhangQQ |  |
+
+### The opening jobs
+
+Take a loot at [job list](job-list.md).
